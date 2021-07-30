@@ -1,0 +1,9 @@
+{
+	"name": "souvikcontainer",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "54fc3e6d-04ae-4985-b2db-cf0466b9f1bb",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
